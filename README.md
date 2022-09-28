@@ -38,9 +38,9 @@ improve myself. I also love to work in this field.</p>
 
 <h3 align="left">My Projects:</h3>
 <p align="left">
-<a href="https://www.strongprettyhomes.com/" target="blank"><img align="<i class="fa-solid fa-house"></i>r" src="" alt="&nbsp;Strong Pretty Homes" height="30" width="40" /></a>
+🏠 <a href="https://www.strongprettyhomes.com/" target="blank"><img align="center" src="" alt="&nbsp;Strong Pretty Homes" height="30" width="40" /></a>
 
-<a href="https://www.trvlcar.com/" target="blank"><img align="center" src="" alt="&nbsp;TRVL Car" height="30" width="40" /></a>
+🚙 <a href="https://www.trvlcar.com/" target="blank"><img align="center" src="" alt="&nbsp;TRVL Car" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;</p>
