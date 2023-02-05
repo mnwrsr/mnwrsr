@@ -4,12 +4,7 @@
 
 <h3 align="center">Frontend Developer</h3>
 
-<p align="justify">Almost 8 months, I have been working as a Frontend Developer with
-JavaScript, ReactJS, HTML, CSS, Bootstrap.
-I have been trying to develop freelance projects as a
-front-end developer for 1 years.
-I had an interest in this field before and I started taking training to
-improve myself. I also love to work in this field.</p>
+<p align="justify">I'm a front-end developer with 2 years of professional responsive web development experience using ReactJS and Redux. I have experience in coordinating full SDLC, including all phases of planning, development, testing and deployment. I have communication and interpersonal skills with team members and I am a good team player. I'm open to learning new technologies.</p>
 
 <p>&nbsp;</p>
 
